@@ -1,0 +1,19 @@
+id: AAE14B090
+title: Descent of Blessings of the Eight Vidyādharas
+type: translation
+pechas:
+- I009646A7
+- I3AA8345F
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:42:54.409863
+  last_modified_at: 2023-01-04 12:42:54.409881
+  collections:
+  - Jigme Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I009646A7/A05C: 340C
+  I3AA8345F/09CC: 340C
